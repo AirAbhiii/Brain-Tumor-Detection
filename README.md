@@ -54,10 +54,16 @@ The model achieves high accuracy when trained on well-labeled MRI datasets. Perf
 
 
 File Structure
-.
+
+
 ├── brain_tumor_dataset/
+
 ├── braintumor.h5
+
 ├── model.py
+
 ├── predict.py
+
 ├── requirements.txt
+
 └── README.md
