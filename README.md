@@ -50,9 +50,10 @@ Validation split: 20
   
 Results
 The model achieves high accuracy when trained on well-labeled MRI datasets. Performance can be further improved with data augmentation and fine-tuning.
+
+
+
 File Structure
-Copy
-Edit
 .
 ├── brain_tumor_dataset/
 ├── braintumor.h5
