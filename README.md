@@ -60,10 +60,4 @@ File Structure
 
 ├── braintumor.h5
 
-├── model.py
-
-├── predict.py
-
-├── requirements.txt
-
 └── README.md
